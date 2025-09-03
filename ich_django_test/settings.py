@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'menu.apps.MenuConfig',
     'staff.apps.StaffConfig',
+    'books.apps.BooksConfig',
 ]
 
 MIDDLEWARE = [
